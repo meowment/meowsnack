@@ -1,2 +1,2 @@
 # meowsnack
-console.info("Hello Kontolodon");
+console.info("Hello meowsnack");
